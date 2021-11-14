@@ -5,7 +5,7 @@ Proyecto de Raspberry
 Vamos hacer una instalación de un sistema operativo (Debian) en la Raspberry.
 
 ## Índice
-1. Introducción
-2. Instalación
-3. Conclusiones 
+1. Introducción.
+2. ¿Qué es una raspberry?.
+3. Instalación del SO.
 
