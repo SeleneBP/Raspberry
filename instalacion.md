@@ -43,6 +43,7 @@ Ya podríamos introducir la tarjeta en la Raspberry
 También en muy usada está app para hacer copias de seguridad y restaurar cualquier cos	a que esté o no relacionada con la Raspberry.
 2. Haremos los pasos 2 y 3 de Windows.
 3. Puedes hacer una copia de seguridad de instalación actual, le damos a _Backup_ y si quieres instalar otro SO, le damos a _Restore_ y volvemos a seleccionar otra imagen.
+Introducimos la tarjeta en la Raspberry.
 
 ## Instalación en Linux
 
@@ -57,16 +58,18 @@ La instalación se realizará através de comandos.
 
 	>uname -s
 
-Si el comando nos devuelve _Linux_...
+Si el comando nos devuelve _Linux_
 
-	> wget https://raw.githubusercontent.com/hypriot/flash/master/Linux/flash
+	>wget https://raw.githubusercontent.com/hypriot/flash/master/Linux/flash
 
 3. Lo que nos devuelva el comando anterior los sustituiremos por Darwin en el siguiente comando.
 
 	>wget https://raw.githubusercontent.com/hypriot/flash/master/Darwin/flash
-	chmod +x flash
-	sudo mv flash /usr/local/bin/flash
 
-4. 
+	>chmod +x flash
+
+	>sudo mv flash /usr/local/bin/flash
+
+Ya sabríamos hacer la instalación en diferentes sistemas operativos.
 
 	
