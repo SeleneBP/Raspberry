@@ -3,16 +3,16 @@
 Es una placa de ordenador en un tamaño reducido y por supuesto menor coste.
 
 
-## ¿Para que sirve?
+## ¿Para qué sirve?
 
 Tiene la mayoría de funciones que tiene un ordenador estándar.
-Es un ordenador portable, auqnue no portátil, depende de un monitor,
-teclado y ratón, para poder interactuar con ella. 
+Es un ordenador portable, aunque no portátil, porque depende de un monitor,
+teclado y un ratón, para poder interactuar con ella. 
 
 ## Algunos usos de la Raspberry
 
 1. Proyector:
-	Es un centro multimedia y por tanto podemos conectarla al pryector
+	Es un centro multimedia y por tanto podemos conectarla al proyector
 	por HDMI o USB.
 
 2. Servidor NAS:
@@ -35,6 +35,6 @@ El coste varia según el modelo que queremos comprar.
 
 Por supuesto, un model más antiguo, más barato, pero con peores especificaciones.
 
-
+## 
 
 ![imagenes](https://github.com/SeleneBP/Raspberry/blob/main/imagenes/raspberry.png)
