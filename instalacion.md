@@ -58,7 +58,7 @@ La instalación se realizará através de comandos.
 
 	>uname -s
 
-Si el comando nos devuelve _Linux_
+2. Si el comando nos devuelve _Linux_
 
 	>wget https://raw.githubusercontent.com/hypriot/flash/master/Linux/flash
 
