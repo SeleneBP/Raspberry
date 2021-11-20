@@ -18,11 +18,14 @@ Estos son algunos SO más populares según su uso:
 
   6. Ubuntu: Si buscas algo más funcional y estándar.
 
-# SD
+# Tarjeta de memoria
 
 Los SO o aplicaciones se instalan en las tarjetas SD o MicroSD. Hay que tener en cuenta que necesitaremos un tarjeta con suficiente capacidad (Entre 8 y 16 GB), aparte de un formato correcto.
 
 Una aplicación para darle el formato correcto es:
 - [SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter/)
 
+# Instalación SO en la Tarjeta de memoria
 
+- [BerryBoot](https://www.berryterminal.com/doku.php/berryboot)
+- [Wind32DiskImager](https://sourceforge.net/projects/win32diskimager/)
