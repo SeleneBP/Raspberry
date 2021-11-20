@@ -23,4 +23,18 @@ teclado y ratón, para poder interactuar con ella.
 	Con una imagen específica para crear la consola retro y un SD, podemos volver
 	a jugar a esos juegos antiguos que hoy en día ya no están por ningún lado.
 
-![imagenes](https://github.com/SeleneBP/Raspberry/blob/4247ca9c433e9126c28a6f406c1f2998a7d78589/imagenes/raspberry.jpg)
+## Coste
+
+El coste varia según el modelo que queremos comprar.
+
+1. Raspberry Pi 4 Model B -> Entre 39.87-60.44
+
+2. Raspberry Pi 3 Model B+ -> 39.75
+
+3. Raspberry Pi Model B -> 33.95
+
+Por supuesto, un model más antiguo, más barato, pero con peores especificaciones.
+
+
+
+![imagenes](https://github.com/SeleneBP/Raspberry/blob/main/imagenes/raspberry.png)
