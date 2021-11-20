@@ -11,15 +11,15 @@ teclado y un ratón, para poder interactuar con ella.
 
 ## Algunos usos de la Raspberry
 
-- Proyector:
+- **Proyector**:
 	Es un centro multimedia y por tanto podemos conectarla al proyector
 	por HDMI o USB.
 
-- Servidor NAS:
+- **Servidor NAS**:
 	Con un sistema operativo y discos duros, podemos hacer un servidor NAS,
 	teniendo nuestros datos en una nube privada.
 
-- Consola retro:
+- **Consola retro**:
 	Con una imagen específica para crear la consola retro y un SD, podemos volver
 	a jugar a esos juegos antiguos que hoy en día ya no están por ningún lado.
 
@@ -27,11 +27,11 @@ teclado y un ratón, para poder interactuar con ella.
 
 El coste varia según el modelo que queremos comprar.
 
-- Raspberry Pi 4 Model B -> Entre 39.87-60.44
+- _Raspberry Pi 4 Model B_: **Entre 39.87 y 60.44€**
 
-- Raspberry Pi 3 Model B+ -> 39.75
+- _Raspberry Pi 3 Model B+_: **39.75€**
 
-- Raspberry Pi Model B -> 33.95
+- _Raspberry Pi Model B_: **33.95€**
 
 Por supuesto, un model más antiguo, más barato, pero con peores especificaciones.
 
