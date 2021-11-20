@@ -24,7 +24,8 @@ Estos son algunos SO más populares según su uso:
 
 Los SO o aplicaciones se instalan en las tarjetas SD o MicroSD. Hay que tener en cuenta que necesitaremos un tarjeta con suficiente capacidad (Entre 8 y 16 GB), aparte de un formato correcto.
 
-Aplicaciones para dar formato:
+Aplicaciones para dar formato
+
 Para **Windows y Mac**:
 - [SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter/)
 
