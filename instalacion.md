@@ -58,11 +58,11 @@ La instalación se realizará através de comandos.
 
 	>uname -s
 
-2. Si el comando nos devuelve _Linux_
+3. Si el comando nos devuelve _Linux_...
 
 	>wget https://raw.githubusercontent.com/hypriot/flash/master/Linux/flash
 
-3. Lo que nos devuelva el comando anterior los sustituiremos por Darwin en el siguiente comando.
+4. Lo que nos devuelva el comando anterior los sustituiremos por Darwin en el siguiente comando.
 
 	>wget https://raw.githubusercontent.com/hypriot/flash/master/Darwin/flash
 
@@ -71,5 +71,3 @@ La instalación se realizará através de comandos.
 	>sudo mv flash /usr/local/bin/flash
 
 Ya sabríamos hacer la instalación en diferentes sistemas operativos.
-
-	
