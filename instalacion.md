@@ -18,7 +18,7 @@ Estos son algunos SO más populares según su uso:
 
   6. **Ubuntu**: Si buscas algo más funcional y estándar.
 
-# Tarjeta de memoria
+## Tarjeta de memoria
 
 Los SO o aplicaciones se instalan en las tarjetas SD o MicroSD. Hay que tener en cuenta que necesitaremos un tarjeta con suficiente capacidad (Entre 8 y 16 GB), aparte de un formato correcto.
 
@@ -27,6 +27,5 @@ Una aplicación para darle el formato correcto es:
 
 ## Instalación SO en la Tarjeta de memoria
 
-1. 
-- [BerryBoot](https://www.berryterminal.com/doku.php/berryboot)
-- [Wind32DiskImager](https://sourceforge.net/projects/win32diskimager/)
+	1. Descargar e instalar la aplicación para instalar el SO en la Raspberry. En este caso es - [BerryBoot](https://www.berryterminal.com/doku.php/berryboot), permite añadir más de un SO en una tarjeta SD.
+- [BerryBoot]
