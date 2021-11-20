@@ -49,19 +49,19 @@ También en muy usada está app para hacer copias de seguridad y restaurar cualq
 La instalación se realizará através de comandos.
 
 1. Instalaremos las dependencias necesarias.
-	sudo apt-get install -y pv curl python-pip unzip
+	>sudo apt-get install -y pv curl python-pip unzip
 	sudo pip install awscli
 2. Ejecutamos el siguiente comando, que nos mostrará la información del SO.
 
-	uname -s
+	>uname -s
 
 Si el comando nos devuelve _Linux_...
 
-	wget https://raw.githubusercontent.com/hypriot/flash/master/Linux/flash
+	>wget https://raw.githubusercontent.com/hypriot/flash/master/Linux/flash
 
 3. Lo que nos devuelva el comando anterior los sustituiremos por Darwin en el siguiente comando.
 
-	wget https://raw.githubusercontent.com/hypriot/flash/master/Darwin/flash
+	>wget https://raw.githubusercontent.com/hypriot/flash/master/Darwin/flash
 	chmod +x flash
 	sudo mv flash /usr/local/bin/flash
 
