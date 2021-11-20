@@ -15,5 +15,5 @@ Vamos hacer una instalación de un sistema operativo (Debian) en la Raspberry.
 
 ## Licencia
 
-[] ()
+[Licencia] (https://github.com/SeleneBP/Raspberry/blob/main/imagenes/licencia.png)
 
