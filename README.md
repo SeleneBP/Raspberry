@@ -14,6 +14,7 @@ Proyecto de Raspberry
 ## Referencias
 
 [Instalación y SO](https://eloutput.com/productos/domotica/instalar-so-raspberry-pi-herramientas/)
+
 [Especificaciones de la Raspberry](https://www.xataka.com/ordenadores/raspberry-pi-4-analisis-caracteristicas-precio-especificaciones)
 
 ## Licencia
