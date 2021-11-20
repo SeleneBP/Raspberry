@@ -23,7 +23,7 @@ teclado y un ratón, para poder interactuar con ella.
 	Con una imagen específica para crear la consola retro y un SD, podemos volver
 	a jugar a esos juegos antiguos que hoy en día ya no están por ningún lado.
 
-## Coste
+## Precio
 
 El coste varia según el modelo que queremos comprar.
 
