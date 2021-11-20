@@ -27,6 +27,7 @@ Los SO o aplicaciones se instalan en las tarjetas SD o MicroSD. Hay que tener en
 Aplicaciones para dar formato:
 Para **Windows y Mac**:
 - [SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter/)
+
 Para **Linux**:
 - [GParted](https://gparted.org/download.php)
 
@@ -42,7 +43,9 @@ Ya podríamos introducir la tarjeta en la Raspberry
 
 1. Descargamos la app.
 - [ApplePi-Backer](https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2/)
+
 También en muy usada está app para hacer copias de seguridad y restaurar cualquier cos	a que esté o no relacionada con la Raspberry.
+
 2. Haremos los pasos 2 y 3 de Windows.
 3. Puedes hacer una copia de seguridad de instalación actual, le damos a _Backup_ y si quieres instalar otro SO, le damos a _Restore_ y volvemos a seleccionar otra imagen.
 Introducimos la tarjeta en la Raspberry.
