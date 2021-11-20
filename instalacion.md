@@ -20,10 +20,8 @@ Estos son algunos SO más populares según su uso:
 
 # SD
 
-Los SO o aplicaciones se instalan en las tarjetas SD o MicroSD. Hay que tener en cuenta que necesitaremos un tarjeta con suficiente capacidad aparte de un formato correcto.
-
-Una aplicación para darle el formato correcto es: SD Memory Card Formatter
-
-- [Página instalación de la aplicación](https://www.sdcard.org/downloads/formatter/)
+Los SO o aplicaciones se instalan en las tarjetas SD o MicroSD. Hay que tener en cuenta que necesitaremos un tarjeta con suficiente capacidad (Entre 8 y 16 GB), aparte de un formato correcto.
+Una aplicación para darle el formato correcto es:
+- [SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter/)
 
 
