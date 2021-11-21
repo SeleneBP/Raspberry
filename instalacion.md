@@ -12,7 +12,7 @@ Estos son algunos SO más populares según su uso:
 
   2. **NOOBS y NOOBS Lite**: Es una aplicación que se instala en la tarjeta de memoria en vez de instalar un SO. La versión Lite, es una versión más ligera que la anterior.
 
-  3. **Retroarch**: Es un emulador en el que se podrá jugar cualquier juego de consonoobslas clásicas hasta modernas.
+  3. **Retroarch**: Es un emulador en el que se podrá jugar cualquier juego de consolas clásicas hasta modernas.
 
   4. **OSMC**: Este SO está especialmente diseñado para ser utilizado como centro multimedia, además viene con una aplicación llamada KODI, que nos permite acceder a contenido multimedia, servidor SAMBA y servidor SSH.
 
@@ -45,7 +45,7 @@ Ya podríamos introducir la tarjeta en la Raspberry
 1. Descargamos la app.
 - [ApplePi-Backer](https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2/)
 
-También en muy usada está app para hacer copias de seguridad y restaurar cualquier cos	a que esté o no relacionada con la Raspberry.
+También en muy usada está app para hacer copias de seguridad y restaurar cualquier cosa que esté o no relacionada con la Raspberry.
 
 2. Haremos los pasos 2 y 3 de Windows.
 3. Puedes hacer una copia de seguridad de instalación actual, le damos a _Backup_ y si quieres instalar otro SO, le damos a _Restore_ y volvemos a seleccionar otra imagen.
